@@ -1,0 +1,25 @@
+.banner {
+    background-image: url('https://wallpapercave.com/wp/wp4087952.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    min-width: 100%
+}
+
+.logo img {
+    width: 200px;
+}
+
+.info-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.habijabi{
+    width: 80%;
+}

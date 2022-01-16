@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(1, 0, 44);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+background-image: url('https://wallpapercave.com/wp/wp4087952.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 4em;
+padding: 100px 0px;
+display: flex;
+justify-content: center;
+text-align: center;
+color: rgb(255, 243, 131);
+}
+
+.leagueCard{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}

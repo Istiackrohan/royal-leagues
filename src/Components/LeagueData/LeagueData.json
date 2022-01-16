@@ -1,0 +1,101 @@
+[
+    {
+        "id": "4328",
+        "detail" : {
+            "name": "Premier League",
+            "sportType" : "Football",
+            "founded" : "20 February 1992",
+            "country" : "England",
+            "gender" : "Male"
+        },
+        "logo": "https://i.ibb.co/Ngq0GhC/image-1.png"
+    },
+    {
+        "id": "4329",
+        "detail" : {
+            "name": "Championship",
+            "sportType" : "Football",
+            "founded" : "1892",
+            "country" : "England",
+            "gender" : "Female"
+        },
+        "logo": "https://i.ibb.co/jgfnR2z/image-2.png"
+    },
+    {
+        "id": "4330",
+        "detail" : {
+            "name": "Scottish Premiership",
+            "sportType" : "Football",
+            "founded" : "2 August 2013",
+            "country" : "Scotland",
+            "gender" : "Male"
+        },
+        "logo": "https://i.ibb.co/k3wDkp6/image-3.png"
+    },
+    {
+        "id": "4331",
+        "detail" : {
+            "name": "UEFA Champions League",
+            "sportType" : "Football",
+            "founded" : "1955",
+            "country" : "Europe",
+            "gender" : "Female"
+        },
+        "logo": "https://i.ibb.co/h2GVpFd/image-4.png"
+    },
+    {
+        "id": "4332",
+        "detail" : {
+            "name": "UEFA Europa League",
+            "sportType" : "Football",
+            "founded" : "1971",
+            "country" : "Europe",
+            "gender" : "Female"
+        },
+        "logo": "https://i.ibb.co/QnC2rj9/image-5.png"
+    },
+    {
+        "id": "4334",
+        "detail" : {
+            "name": "La Liga Santander",
+            "sportType" : "Football",
+            "founded" : "1929",
+            "country" : "Spain",
+            "gender" : "Male"
+        },
+        "logo": "https://i.ibb.co/VTVjbs4/image-6.png"
+    },
+    {
+        "id": "4335",
+        "detail" : {
+            "name": "Emirates FA Cup",
+            "sportType" : "Football",
+            "founded" : "1871",
+            "country" : "England",
+            "gender" : "Female"
+        },
+        "logo": "https://i.ibb.co/Lrd3DTF/image-7.png"
+    },
+    {
+        "id": "4336",
+        "detail" : {
+            "name": "Major League Soccer",
+            "sportType" : "Football",
+            "founded" : "December 17, 1993",
+            "country" : "United States",
+            "gender" : "Male"
+        },
+        "logo": "https://i.ibb.co/Vpxb4bv/image-8.png"
+    },
+    {
+        "id": "4337",
+        "detail" : {
+            "name": "Eredivisie",
+            "sportType" : "Football",
+            "founded" : "1956",
+            "country" : "Netherlands",
+            "gender" : "Male"
+        },
+        "logo": "https://i.ibb.co/RcCngKp/image-9.png"
+    }
+]
