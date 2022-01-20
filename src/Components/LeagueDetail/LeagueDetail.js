@@ -24,6 +24,11 @@ const LeagueDetail = () => {
 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur recusandae ab esse neque consectetur voluptatibus ad molestiae, harum accusamus assumenda eius laborum explicabo et! Ratione eaque nulla dolores quas, nostrum hic laudantium cupiditate eum repellat maiores labore repellendus vel porro reiciendis in esse deserunt iusto voluptates. Neque dolor odio suscipit.</p>
                 </div>
+                <div className="social">
+                    <a href="https://www.facebook.com/istiack.amin"><img src="https://i.ibb.co/FmTjDnL/Facebook.png"/></a>
+                    <a href="http://"><img src="https://i.ibb.co/kBmgphJ/Twitter.png"/></a>
+                    <a href="https://www.youtube.com/c/IstiackAdorRohan"><img src="https://i.ibb.co/xjvB7kc/YouTube.png"/></a>
+                </div>
             </div>
         </>
     );
